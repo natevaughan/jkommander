@@ -8,5 +8,6 @@ gradle fatJar
 
 Run:
 ```
-java -jar jkommander-all.jar -f some.file -d true
+java -jar build/libs/jkommander-all.jar -f some.file -d
 ```
+Update args in App.CommandArgs to your delight!
